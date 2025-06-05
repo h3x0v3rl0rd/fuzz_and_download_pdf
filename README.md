@@ -1,5 +1,5 @@
 #️⃣ HTB - Intelligence
-🖥️ -n3rdh4x0r-
+🖥️ -h3x0v3rl0rd-
 
 # fuzz_and_download_pdf
 
